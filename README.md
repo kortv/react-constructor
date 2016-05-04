@@ -9,3 +9,6 @@ or
 npm run front
 
 http://localhost:8080/public/constructor-f/
+
+Online example
+http://kortv.github.io/constructor/constructor-f/
